@@ -27,7 +27,6 @@
     <h3>Languages and Tools </h3>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt ="C#"
     width="40" height ="40" />&nbsp;
-    <h3>Languages and Tools </h3>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt =".NET"
     width="40" height ="40" />&nbsp;
     <h3>Languages and Tools </h3>
@@ -40,6 +39,9 @@
 </div>
 
  
+
+
+
 
 
 

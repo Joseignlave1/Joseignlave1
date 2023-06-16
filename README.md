@@ -44,8 +44,7 @@
 ---
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseignlave1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![Joseignlave1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseignlave1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseignlave1&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseignlave1&hide_progress=false)
 
 
 

@@ -33,10 +33,12 @@
     width="40" Height ="40" />&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt ="Javascript"
     width="40" height ="40" />&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt ="HTML"
+    width="40" height ="40" />&nbsp;
+    <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt ="CSS"
+    width="40" height ="40" />&nbsp;
 </div>
 
  
-
-
 
 

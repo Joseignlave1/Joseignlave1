@@ -8,11 +8,11 @@
 <div id = "badges" align ="center">
    <a href = "https://www.linkedin.com/in/jose-ignacio-lavecchia-suarez-766316239/" >
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt = "LinkedinBadge"/>
+     alt = "LinkedinBadge"/>
    </a>
    <a href = "mailto:leo8493@outlook.com" >
     <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    alt = "OutlookBadge"/>
+     alt = "OutlookBadge"/>
    </a> 
    
 </div>
@@ -29,18 +29,13 @@
     width="40" height ="40" />&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt =".NET"
     width="40" height ="40" />&nbsp;
-    <h3>Languages and Tools </h3>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Python" alt ="Python"
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt ="Python"
+    width="40" Height ="40" />&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt ="Javascript"
     width="40" height ="40" />&nbsp;
-    <h3>Languages and Tools </h3>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Javascript" alt ="Javascript"
-    width="40" height ="40" />&nbsp;
-
 </div>
 
  
-
-
 
 
 

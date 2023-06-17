@@ -1,4 +1,4 @@
-
+   <!--Icon-->
 <div id = "header" align = "center">
     <img src = https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width = "200" />
     <h1 align ="center"> Hi I'm José</h1>
@@ -19,10 +19,8 @@
 <hr>
 ---
 ### About Me:
--Informacion
--Información
--Información
--Información
+Full Stack Developer, passionate about programming since childhood. Currently studying Computer Engineering and seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding. Feel free to reach out for employment opportunities or to have a chat
+ <!-- Tools-->
 <div align ="left">
     <h3>Languages and Tools </h3>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt ="C#"
@@ -39,15 +37,9 @@
     width="40" height ="40" />&nbsp;
 </div>
 
----
+ <!-- Github Stats-->
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseignlave1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseignlave1&hide_progress=false&theme=transparent&hide_border=true)
-
-
-
-
-
- 

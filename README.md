@@ -2,7 +2,7 @@
  <div id = "header" align = "center">
     <img src = https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width = "200" />
     <h1 align ="center"> Hi I'm José❤️</h1>
-    <h3 align ="center"> FullStackDeveloper</h3>
+    <h3 align ="center">FullStackDeveloper</h3>
 </div>
    <!-- Bagdes-->
 <div id = "badges" align ="center">
@@ -20,7 +20,7 @@
 <!--About Me-->
 <h3>About Me : <h3/>
 
-<h4>-passionate about programming since childhood. </h4>
+<h4>-Passionate about programming since childhood. </h4>
 <h4>-Currently studying Computer Engineering </h4>
 <h4>-Seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.</h4>
 

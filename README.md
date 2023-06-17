@@ -18,12 +18,11 @@
 </div>
 <hr>
 <!--About Me-->
-<h3>About Me <h3/>
+<h3>About Me : <h3/>
 
--Full Stack Developer, passionate about programming since childhood. 
--Currently studying Computer Engineering and seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.
-
-Feel free to reach out for employment opportunities or to have a chat.
+<h4>-Full Stack Developer, passionate about programming since childhood. </h4>
+<h4>-Currently studying Computer Engineering and seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.
+Feel free to reach out for employment opportunities or to have a chat.</h4>
 
 
 <div align ="left">

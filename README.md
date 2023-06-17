@@ -1,5 +1,5 @@
-   <!--Icon-->
-<div id = "header" align = "center">
+ <!--Icon-->
+ <div id = "header" align = "center">
     <img src = https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width = "200" />
     <h1 align ="center"> Hi I'm José</h1>
     <h3 align ="center"> A passionate FullStackDeveloper, im currently studying Computer Engeneering</h3>
@@ -18,9 +18,20 @@
 </div>
 <hr>
 ---
-### About Me:
-Full Stack Developer, passionate about programming since childhood. Currently studying Computer Engineering and seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding. Feel free to reach out for employment opportunities or to have a chat
- <!-- Tools-->
+<!--About Me-->
+<div align ="center">
+    <h3>About me</h3>
+    <p>
+    <strong>Full Stack Developer</strong>passionate about programming since childhood. Currently studying Computer Engineering and seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.
+    
+    </p>
+    <p>
+        Feel free to reach out for employment opportunities or to have a chat.
+    </p>   
+</div>
+
+
+
 <div align ="left">
     <h3>Languages and Tools </h3>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt ="C#"

@@ -24,7 +24,7 @@
 <h4>-Currently studying Computer Engineering </h4>
 <h4>-Seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.</h4>
 
-<h4 align = "center">Feel free to reach out for employment opportunities or to have a chat.</h4>
+<h4 align = "center">Feel free to reach out for employment opportunities or to have a chat 😺.</h4>
 
 
 <div align ="left">

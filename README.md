@@ -23,27 +23,33 @@
 <h4>-Software Engineer with more than 2 years of experience in both frontend and backend
 development. </h4>
 
-<h4>- currently looking for a company where I can grow, develop in the long term, and
+<h4>-Currently looking for a company where I can grow, develop in the long term, and
 learn from people with more experience than me.</h4>
 
-<h4>-Seeking professional experience in a project that motivates me and helps me grow every day, enhancing my skills in what I love most: coding.</h4>
+<h4>-My goal is to grow every day, enhancing my skills in what I love most: coding.</h4>
 
 <h4>-Feel free to reach out for employment opportunities or to have a chat.😺</h4>
 
 
 <div align ="left">
     <h3>Languages and Tools </h3>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt ="C#"
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt ="Java"
     width="40" height ="40" />&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt =".NET"
+       width="40" height ="40" />&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node js" alt ="Node js"
     width="40" height ="40" />&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt ="Javascript"
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt ="TypeScript"
     width="40" height ="40" />&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt ="HTML"
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt ="React"
     width="40" height ="40" />&nbsp;
-    <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt ="CSS"
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt ="HTML"
     width="40" height ="40" />&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt ="Java"
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt ="CSS"
+    width="40" height ="40" />&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt ="MySQL"
+    width="40" height ="40" />&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt ="Azure"
     width="40" height ="40" />&nbsp;
 </div>
 

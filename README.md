@@ -1,7 +1,7 @@
  <!--Icon-->
  <div id = "header" align = "center">
     <img src = https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width = "200" />
-    <h1 align ="center"> Hi I'm José❤️</h1>
+    <h1 align ="center">Jose Ignacio Lavecchia</h1>
     <h3 align ="center">Software Engineer</h3>
 </div>
    <!-- Bagdes-->

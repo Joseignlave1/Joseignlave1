@@ -1,6 +1,6 @@
  <!--Icon-->
  <div id = "header" align = "center">
-    <img src = https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif width = "200" />
+    <img src = "https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width = "200" />
     <h1 align ="center">Jose Ignacio Lavecchia</h1>
     <h3 align ="center">Software Engineer</h3>
 </div>

@@ -23,6 +23,7 @@
 </div>
 <hr>
 <div align ="left">
+ <!-- Languaje and Tools-->
     <h3>Languages and Tools </h3>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt ="Java"
     width="40" height ="40" />&nbsp;
@@ -45,7 +46,7 @@
 </div>
 
  <!-- Github Stats-->
-### My Stats :
+### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseignlave1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 

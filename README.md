@@ -23,7 +23,9 @@
 <h4>-Software Engineer with more than 2 years of experience in both frontend and backend
 development. </h4>
 
-<h4>-Currently looking for a company where I can contribute and develop in the long term.</h4>
+<h4>-Currently working at TCS - Tata Consultancy Services </h4>
+
+<h4>-Looking for a company where I can contribute and develop in the long term.</h4>
 
 <h4>-My goal is to grow every day, enhancing my skills in what I love most: coding.</h4>
 

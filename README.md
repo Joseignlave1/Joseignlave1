@@ -1,5 +1,5 @@
  <!--Icon-->
-<div id="header" align="center">
+<div id="header">
     <h1 align="center">Jose Ignacio Lavecchia</h1>
     <code>Software Engineer</code>
     <h4>I have 2 years of experience in both frontend and backend development. I am currently looking for a company where I can continue to grow and develop my skills over the long term.

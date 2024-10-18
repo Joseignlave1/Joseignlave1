@@ -1,6 +1,6 @@
  <!--Icon-->
 <div id="header">
-    <h1 align="center">Jose Ignacio Lavecchia</h1>
+    <h1>Jose Ignacio Lavecchia</h1>
     <code>Software Engineer</code>
     <h4>I have 2 years of experience in both frontend and backend development. I am currently looking for a company where I can continue to grow and develop my skills over the long term.
      I value opportunities to work with and learn from people who have more experience than I do, and I’m eager to contribute to a team where I can expand my knowledge while making a meaningful impact.</h4>

@@ -2,6 +2,8 @@
  <div id = "header" align = "center">
     <h1 align ="center">Jose Ignacio Lavecchia</h1>
     <h3 align ="center">Software Engineer at TCS - Tata Consultancy Services</h3>
+    <h4>I have 2 years of experience in both frontend and backend development. I am currently looking for a company where I can continue to grow and develop my skills over the long term. 
+     I value opportunities to work with and learn from people who have more experience than I do, and I’m eager to contribute to a team where I can expand my knowledge while making a meaningful impact.</h4>
 </div>
    <!-- Bagdes-->
 <div id = "badges" align ="center">
@@ -16,18 +18,6 @@
    
 </div>
 <hr>
-<!--About Me-->
-<h3>About Me : <h3/>
-
-<h4>-Software Engineer with more than 2 years of experience in both frontend and backend
-development. </h4>
-
-
-<h4>-Looking for a company where I can contribute and develop in the long term.</h4>
-
-<h4>-My goal is to grow every day, enhancing my skills in what I love most: coding.</h4>
-
-
 <div align ="left">
     <h3>Languages and Tools </h3>
    <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt ="Java"

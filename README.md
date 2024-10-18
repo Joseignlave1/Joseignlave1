@@ -1,10 +1,11 @@
  <!--Icon-->
- <div id = "header" align = "center">
-    <h1 align ="center">Jose Ignacio Lavecchia</h1>
-   `Digital Craftsman (Developer/Filmmaker/Creator)`
-    <h4>I have 2 years of experience in both frontend and backend development. I am currently looking for a company where I can continue to grow and develop my skills over the long term. 
+<div id="header" align="center">
+    <h1 align="center">Jose Ignacio Lavecchia</h1>
+    <code>Digital Craftsman (Developer/Filmmaker/Creator)</code>
+    <h4>I have 2 years of experience in both frontend and backend development. I am currently looking for a company where I can continue to grow and develop my skills over the long term.
      I value opportunities to work with and learn from people who have more experience than I do, and I’m eager to contribute to a team where I can expand my knowledge while making a meaningful impact.</h4>
 </div>
+
    <!-- Bagdes-->
 <div id = "badges" align ="center">
    <a href = "https://www.linkedin.com/in/jose-ignacio-lavecchia-suarez-766316239/" >

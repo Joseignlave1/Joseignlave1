@@ -2,11 +2,11 @@
 <div id="header">
     <h1>Jose Ignacio Lavecchia</h1>
     <code>Software Engineer</code>
-    <h4>
+    <h5>
      I have two years of experience working in both frontend and backend development.<br>
      Currently, I am looking for a company where I can continue to grow and refine my skills over the long term.<br>
      I highly value opportunities to collaborate with and learn from experienced professionals, and I’m eager to contribute to a team where I can expand my knowledge while making a meaningful impact.
-    </h4>
+    </h5>
 </div>
 
    <!-- Bagdes-->

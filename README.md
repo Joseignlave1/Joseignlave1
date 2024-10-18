@@ -27,8 +27,6 @@ development. </h4>
 
 <h4>-My goal is to grow every day, enhancing my skills in what I love most: coding.</h4>
 
-<h4>-Feel free to reach out for employment opportunities or to have a chat.😺</h4>
-
 
 <div align ="left">
     <h3>Languages and Tools </h3>

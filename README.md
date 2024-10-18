@@ -2,7 +2,7 @@
  <div id = "header" align = "center">
     <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6bjZrcTRjeHZjejI4dnRjOGpoZGpreWp0MDR5ZzF1ODk2cTRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width = "200" />
     <h1 align ="center">Jose Ignacio Lavecchia</h1>
-    <h3 align ="center">Software Engineer</h3>
+    <h3 align ="center">Software Engineer at TCS - Tata Consultancy Services</h3>
 </div>
    <!-- Bagdes-->
 <div id = "badges" align ="center">
@@ -23,7 +23,6 @@
 <h4>-Software Engineer with more than 2 years of experience in both frontend and backend
 development. </h4>
 
-<h4>-Currently working at TCS - Tata Consultancy Services </h4>
 
 <h4>-Looking for a company where I can contribute and develop in the long term.</h4>
 

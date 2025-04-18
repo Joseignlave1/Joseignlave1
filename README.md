@@ -5,7 +5,6 @@
     <h5>
      I have two years of experience working in both frontend and backend development.<br>
      Currently working as a Software Developer in Mercado Libre.<br>
-     I highly value opportunities to collaborate with and learn from experienced professionals, and I’m eager to contribute to a team where I can expand my knowledge while making a meaningful impact.
     </h5>
 </div>
 
